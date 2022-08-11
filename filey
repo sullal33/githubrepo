@@ -1,3 +1,8 @@
 To practice merge command
 Editing filey inside branch3_sgp
 Adding this line on master branch to check if it still reflects in branch4
+Adding this line on branch4 to check if it'sa 3way merge or a conflict
+
+Conflict can occur only in 3 way merge but not in Fast forward merge.
+Conflict can occur only if same file is modified (by adding new lines/deleting) in both branches,
+conflict may not occur if new files are added? Needs checking in future exercise
